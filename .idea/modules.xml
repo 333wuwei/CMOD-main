@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CMOD-main.iml" filepath="$PROJECT_DIR$/.idea/CMOD-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RSODP-main/.idea/RSODP-main.iml" filepath="$PROJECT_DIR$/../RSODP-main/.idea/RSODP-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../pythonwork/.idea/pythonwork.iml" filepath="$PROJECT_DIR$/../../../pythonwork/.idea/pythonwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20230525eYBKbJFO/taxi-pickups-master/taxi-pickups-master/.idea/taxi-pickups-master.iml" filepath="$PROJECT_DIR$/../20230525eYBKbJFO/taxi-pickups-master/taxi-pickups-master/.idea/taxi-pickups-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../work/tcca-master/.idea/tcca-master.iml" filepath="$PROJECT_DIR$/../../../work/tcca-master/.idea/tcca-master.iml" />
+    </modules>
+  </component>
+</project>
